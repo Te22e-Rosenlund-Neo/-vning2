@@ -1,3 +1,7 @@
+/*code can be shortened by being smarter with where and when to use class*/
+
+
+
 body{
     background-image: url("./images/winter-snow.jpg");
     display: flex;
